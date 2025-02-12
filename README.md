@@ -16,8 +16,8 @@ _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: git@github.
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: igorluppi.me
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Twitter: IgorLuppi
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: igorluppi.tech
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Twitter/X: IgorLuppi
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Github: IgorLuppi
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     compiling projects
